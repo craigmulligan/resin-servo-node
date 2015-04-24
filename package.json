@@ -1,0 +1,11 @@
+{
+  "name": "basic-resin-servo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Craig Mulligan <craig@resin.io>",
+  "license": "ISC",
+  "dependencies": {
+    "pi-blaster.js": "0.0.2"
+  }
+}
